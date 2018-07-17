@@ -1,0 +1,29 @@
+.nav-link{
+    color: slategray;
+}
+.jumbo-custom{
+    background-color: #e1e2e2;
+}
+.space-em{
+    margin: 10px;
+}
+.block{
+    background-color: #e1e2e2;
+}
+footer{
+    background-color: #e1e2e2;
+    padding: 10px;
+}
+a{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 500;
+}
+h1{
+    font-family: 'Work Sans', sans-serif;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+}
+h2,h5{
+    font-family: 'Work Sans', sans-serif;
+}
